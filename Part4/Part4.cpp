@@ -27,6 +27,7 @@ int main() {
     cout << "Nilai Fisika : " << nilaiFisika << endl;
     cout << "rta-rata nilai : " << nRerata << endl;
     cout << "Statusnya adalah " << status << endl;
+    return 0;
 }
 
 
